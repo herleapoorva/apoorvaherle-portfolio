@@ -3,7 +3,7 @@
 # Title
 visualizing-government-debt
 
-![Image](export-2024-11-02T19_58_19.386Z.png)
+![Image](./GGD.png)
 
 _As before, this template provides some of the structure you should have for your assignment, but the official instructions and guidance can be found on Canvas.  Make sure to reference that for detailed instructions on what you need to do and what you need to submit to get credit._
 
