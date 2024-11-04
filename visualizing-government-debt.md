@@ -1,12 +1,17 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-visualizing-government-debt
+# General Government Debt
+Visualizing-government-debt
 
 In this project, we examine government debt as a percentage of GDP across various nations, using data sourced from the OECD . Our objective is to depict the fiscal landscape and the impact of policies in different countries through diverse visualizations
 
 
 Further data analysis and visualization were conducted using Tableau, showcasing our proficiency with advanced visualization tools. This practical application has enhanced our ability to convey complex economic narratives effectively, an essential competency in the field of data science and economics.
+
+
+Part one: Working with web-based visualization tools and data
+
+This bar chart illustrates the general government debt as a percentage of GDP for selected countries in the year 2022. Data is sourced from the Organization for Economic Co-operation and Development (OECD), providing a credible snapshot of fiscal health across these nations. This visualization not only sheds light on the current fiscal positions but also raises questions about the economic strategies that lead to such varied debt levels, stimulating further research and discussion.
 
 ![Image](./GGD.png)
 
