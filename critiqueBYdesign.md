@@ -30,19 +30,23 @@ Step 4: Testing the Solution
 
 To test the solution, I shared the initial wireframe drafts with two individuals from different demographic backgrounds to gather diverse feedback. The first individual, a student in their mid-20s, appreciated the simplified design, noting that it allowed for a greater focus on the data itself but suggested including a brief explanation to provide context and enhance comprehension. The second individual, another student in their early 20s, found the original colors somewhat harsh on the eyes and preferred the simplified version but recommended further improving color contrast to ensure better legibility. The feedback revealed consistent patterns, such as a strong preference for simplicity and clarity, a desire for more context and explanation regarding the data, and suggestions to enhance color contrast and overall legibility. These insights will guide the final redesign to create a more effective, accessible, and informative visualization.
 
+![Image](./Draft1.png)
+
 ## Revised Version
 
 <div class='tableauPlaceholder' id='viz1731456155681' style='position: relative'>
   <noscript>
     <a href='#'>
-      <img alt='What&#39;s the point of Valentine&#39;s Day?% of men and women in the UK saying the following are the point of Valentine&#39;s Day : This chart illustrates the differences in how men and women in the UK perceive the purpose of Valentine’s Day. This data highlights  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17314561014700&#47;Sheet12&#47;1_rss.png' style='border: none' />
+      <img alt='What&#39;s the point of Valentine&#39;s Day?% of men and women in the UK saying the following are the point of Valentine&#39;s Day : This chart illustrates the differences in how men and women in the UK perceive the purpose of Valentine’s Day. This data highlights  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17314561014700&#47;Sheet12&#47;
+        1_rss.png' style='border: none' />
     </a>
   </noscript>
   <object class='tableauViz'  style='display:none;'>
     <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
     <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
     <param name='name' value='Book1_17314561014700&#47;Sheet12' /><param name='tabs' value='no' />
-    <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17314561014700&#47;Sheet12&#47;1.png' /> <param name='animate_transition' value='yes' />
+    <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17314561014700&#47;Sheet12&#47;1.png' /> 
+    <param name='animate_transition' value='yes' />
     <param name='display_static_image' value='yes' />
     <param name='display_spinner' value='yes' />
     <param name='display_overlay' value='yes' />
@@ -51,11 +55,12 @@ To test the solution, I shared the initial wireframe drafts with two individuals
     <param name='filter' value='publish=yes' />
   </object>
 </div>
+
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1731456155681'); 
   var vizElement = divElement.getElementsByTagName('object')[0]; 
   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; 
   var scriptElement = document.createElement('script');   
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
