@@ -3,6 +3,7 @@
 # Selection of Data Visualization
 
 The data visualization selected for redesign is focused on the perceived purposes of Valentine’s Day among men and women in the UK. The original visualization, created by Chillisauce.co.uk and published via Statista 'https://www.statista.com/chart/amp/3229/whats-the-point-of-valentines-day/' , depicted the different reasons cited by men and women for celebrating Valentine’s Day, such as showing care, going out for dinner, and buying gifts.
+I also checked out the video 'https://www.youtube.com/watch?v=O4xW96NB1TE' to learn something new and see the alternate options to modify the data viz!
 
 I chose the Valentine’s Day graph because it offers an interesting and relatable exploration of how men and women perceive the purpose of the holiday, highlighting distinct gender-based differences. The data visualization is visually engaging, with clear bar charts making it easy to compare the responses of men and women across various motivations such as showing affection, receiving gifts, or treating oneself. The topic itself is culturally relevant and often discussed, providing a familiar context that can attract viewers’ attention and spark conversations.
 
