@@ -111,7 +111,7 @@ The feedback showed that the visualization did a good job of highlighting how me
 Based on the feedback received from the student evaluations, I made a number of enhancements to the Valentine’s Day visualization to better meet the needs of the intended audience and improve overall clarity:
   - **Enhanced Title and Context:** Updated the title to provide a more precise and informative description, adding context to help viewers understand the significance of the data being presented.
   - **Added Legend:** Introduced a legend to clearly distinguish between responses from men and women, improving accessibility and reducing any ambiguity in interpreting the visualization.
-  - **Inclusive Color Scheme:** Modified the color palette to be more inclusive and considerate of colorblind accessibility, ensuring a broader audience can engage effectively with the data.
+  - **Inclusive Color Scheme:** Modified the color palette to be more inclusive and considerate, ensuring a broader audience can engage effectively with the data.
   - **Removed Distracting Elements:** Eliminated decorative images, such as the heart graphic, to maintain focus on the data and avoid unnecessary distractions.
   - **Reordered Categories:** Arranged the categories in descending order based on percentage values, improving the logical flow and making it easier to quickly grasp key insights.
 
