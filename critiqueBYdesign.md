@@ -29,46 +29,47 @@ To address the concerns identified in the original visualization, I created a wi
 
 ## Testing the Solution
 
-**Student 1:**
-	•	What did you take away from the graph?
-“It’s clear that there’s a big difference in how men and women in the UK view Valentine’s Day, with women putting a lot more emphasis on ‘showing how much you care.’”
-	•	Who do you think this was made for?
-“I’d guess it’s for the general public, marketers, or anyone curious about social behaviors.”
-	•	Any suggestions for improvement?
-“It might be helpful to add a short description for each category to clarify what they cover. Also, using a more inclusive color scheme could make it more visually accessible.”
+- **Student 1:**
+    - **What did you take away from the graph?**
+        - “It’s clear that there’s a big difference in how men and women in the UK view Valentine’s Day, with women putting a lot more emphasis on ‘showing how much you care.’”
+    - **Who do you think this was made for?**
+        - “I’d guess it’s for the general public, marketers, or anyone curious about social behaviors.”
+    - **Any suggestions for improvement?**
+        - “It might be helpful to add a short description for each category to clarify what they cover. Also, using a more inclusive color scheme could make it more visually accessible.”
 
-**Student 2:**
-	•	What did you understand from the graph?
-“It’s comparing the reasons men and women celebrate Valentine’s Day.”
-	•	How easy was it to understand?
-“I got it, but I think the colors could be adjusted to be more inclusive for people who might be colorblind. Something Valentine's day themed would be pretty cool!”
-	•	Who is this for?
-“I think it’s aimed at people interested in social behavior trends or even marketers.”
+- **Student 2:**
+    - **What did you understand from the graph?**
+        - “It’s comparing the reasons men and women celebrate Valentine’s Day.”
+    - **How easy was it to understand?**
+        - “I got it, but I think the colors could be adjusted to be more inclusive for people who might be colorblind. Something Valentine's Day themed would be pretty cool!”
+    - **Who is this for?**
+        - “I think it’s aimed at people interested in social behavior trends or even marketers.”
 
-**Student 3:**
-	•	What did you get from this graph?
-“It’s about why men and women celebrate Valentine’s Day, and it’s clear that showing care matters a lot more to women.”
-	•	How easy was it to understand?
-“Mostly clear, but I’d suggest reordering the categories based on percentage values to make it even easier.”
-	•	Who is this for?
-“People who want to understand social behaviors around Valentine’s Day.”
-	•	Is anything missing?
-“Not really”
-	•	Suggestions?
-“Maybe reorder the categories in a more logical way and provide more details on what ‘showing care’ really means.”
+- **Student 3:**
+    - **What did you get from this graph?**
+        - “It’s about why men and women celebrate Valentine’s Day, and it’s clear that showing care matters a lot more to women.”
+    - **How easy was it to understand?**
+        - “Mostly clear, but I’d suggest reordering the categories based on percentage values to make it even easier.”
+    - **Who is this for?**
+        - “People who want to understand social behaviors around Valentine’s Day.”
+    - **Is anything missing?**
+        - “Not really”
+    - **Suggestions?**
+        - “Maybe reorder the categories in a more logical way and provide more details on what ‘showing care’ really means.”
 
-**Student 4:**
-	•	What’s your takeaway?
-“It highlights differences in how men and women see and celebrate Valentine’s Day.”
-	•	How easy was it to understand?
-“It’s pretty easy to follow, but the decorative elements feel distracting.”
-	•	Who do you think would be interested in this?
-“Anyone curious about relationship dynamics or social trends.”
-	•	Is anything missing?
-“It would be great to know if the data is for a specific age group or demographic.”
-	•	Changes you’d make?
-“I’d remove the decorative image to keep it focused on the data and maybe add a brief takeaway or key insight.”
+- **Student 4:**
+    - **What’s your takeaway?**
+        - “It highlights differences in how men and women see and celebrate Valentine’s Day.”
+    - **How easy was it to understand?**
+        - “It’s pretty easy to follow, but the decorative elements feel distracting.”
+    - **Who do you think would be interested in this?**
+        - “Anyone curious about relationship dynamics or social trends.”
+    - **Is anything missing?**
+        - “It would be great to know if the data is for a specific age group or demographic.”
+    - **Changes you’d make?**
+        - “I’d remove the decorative image to keep it focused on the data and maybe add a brief takeaway or key insight.”
 
+      
 The feedback showed that the visualization did a good job of highlighting how men and women in the UK view Valentine’s Day differently, with women putting a stronger emphasis on “showing how much you care.” Most people thought it would be interesting to anyone curious about social trends or marketing insights. Suggestions included adding more context to each category, reordering the data for better clarity, and making the color scheme more inclusive for those with colorblindness. While many found it easy to understand, some felt the decorative elements were distracting and suggested simplifying the design to keep the focus on the data itself.
 
 <div class='tableauPlaceholder' id='viz1731553810447' style='position: relative'><noscript>
@@ -104,12 +105,12 @@ The feedback showed that the visualization did a good job of highlighting how me
 
 ## Revised Version
 
-Based on the feedback I received from the students, I made several improvements to the Valentine’s Day visualization:
-	•	Updated the title for clarity and added some context to it, ensuring it accurately reflects the data being shown.
-	•	Added a legend to clearly differentiate between men’s and women’s responses, improving accessibility for viewers.
-	•	Adjusted the color scheme to be more inclusive and considerate, making it easier for a broader audience to engage with.
-	•	Removed decorative elements that were distracting, such as the heart image, to maintain focus on the data itself.
-	•	Reordered the categories based on percentage values, making it easier to follow and highlighting key insights at a glance.
+Based on the feedback received from the student evaluations, I made a number of enhancements to the Valentine’s Day visualization to better meet the needs of the intended audience and improve overall clarity:
+  - **Enhanced Title and Context:** Updated the title to provide a more precise and informative description, adding context to help viewers understand the significance of the data being presented.
+  - **Added Legend:** Introduced a legend to clearly distinguish between responses from men and women, improving accessibility and reducing any ambiguity in interpreting the visualization.
+  - **Inclusive Color Scheme:** Modified the color palette to be more inclusive and considerate of colorblind accessibility, ensuring a broader audience can engage effectively with the data.
+  - **Removed Distracting Elements:** Eliminated decorative images, such as the heart graphic, to maintain focus on the data and avoid unnecessary distractions.
+  - **Reordered Categories:** Arranged the categories in descending order based on percentage values, improving the logical flow and making it easier to quickly grasp key insights.
 
 <div class='tableauPlaceholder' id='viz1731548470424' style='position: relative'>
   <noscript>
