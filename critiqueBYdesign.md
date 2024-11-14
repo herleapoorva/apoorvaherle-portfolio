@@ -2,8 +2,9 @@
 
 # Selection of Data Visualization
 
-The data visualization selected for redesign is focused on the perceived purposes of Valentine’s Day among men and women in the UK. The original visualization, created by Chillisauce.co.uk and published via Statista, depicted the different reasons cited by men and women for celebrating Valentine’s Day, such as showing care, going out for dinner, and buying gifts.
+The data visualization selected for redesign is focused on the perceived purposes of Valentine’s Day among men and women in the UK. The original visualization, created by Chillisauce.co.uk and published via Statista 'https://www.statista.com/chart/amp/3229/whats-the-point-of-valentines-day/' , depicted the different reasons cited by men and women for celebrating Valentine’s Day, such as showing care, going out for dinner, and buying gifts.
 
+I chose the Valentine’s Day graph because it offers an interesting and relatable exploration of how men and women perceive the purpose of the holiday, highlighting distinct gender-based differences. The data visualization is visually engaging, with clear bar charts making it easy to compare the responses of men and women across various motivations such as showing affection, receiving gifts, or treating oneself. The topic itself is culturally relevant and often discussed, providing a familiar context that can attract viewers’ attention and spark conversations.
 
 ## Part one: Critique of the Original Visualization
 
@@ -28,11 +29,58 @@ To address the concerns identified in the original visualization, I created a wi
 
 ## Testing the Solution
 
-To test the solution, I shared the initial wireframe drafts with two individuals from different demographic backgrounds to gather diverse feedback. The first individual, a student in their mid-20s, appreciated the simplified design, noting that it allowed for a greater focus on the data itself but suggested including a brief explanation to provide context and enhance comprehension. The second individual, another student in their early 20s, found the original colors somewhat harsh on the eyes and preferred the simplified version but recommended further improving color contrast to ensure better legibility. The feedback revealed consistent patterns, such as a strong preference for simplicity and clarity, a desire for more context and explanation regarding the data, and suggestions to enhance color contrast and overall legibility. These insights will guide the final redesign to create a more effective, accessible, and informative visualization.
+**Student 1:**
+	•	What did you take away from the graph?
+“It’s clear that there’s a big difference in how men and women in the UK view Valentine’s Day, with women putting a lot more emphasis on ‘showing how much you care.’”
+	•	Who do you think this was made for?
+“I’d guess it’s for the general public, marketers, or anyone curious about social behaviors.”
+	•	Any suggestions for improvement?
+“It might be helpful to add a short description for each category to clarify what they cover. Also, using a more inclusive color scheme could make it more visually accessible.”
+
+**Student 2:**
+	•	What did you understand from the graph?
+“It’s comparing the reasons men and women celebrate Valentine’s Day.”
+	•	How easy was it to understand?
+“I got it, but I think the colors could be adjusted to be more inclusive for people who might be colorblind. Something Valentine's day themed would be pretty cool!”
+	•	Who is this for?
+“I think it’s aimed at people interested in social behavior trends or even marketers.”
+
+**Student 3:**
+	•	What did you get from this graph?
+“It’s about why men and women celebrate Valentine’s Day, and it’s clear that showing care matters a lot more to women.”
+	•	How easy was it to understand?
+“Mostly clear, but I’d suggest reordering the categories based on percentage values to make it even easier.”
+	•	Who is this for?
+“People who want to understand social behaviors around Valentine’s Day.”
+	•	Is anything missing?
+“Not really”
+	•	Suggestions?
+“Maybe reorder the categories in a more logical way and provide more details on what ‘showing care’ really means.”
+
+**Student 4:**
+	•	What’s your takeaway?
+“It highlights differences in how men and women see and celebrate Valentine’s Day.”
+	•	How easy was it to understand?
+“It’s pretty easy to follow, but the decorative elements feel distracting.”
+	•	Who do you think would be interested in this?
+“Anyone curious about relationship dynamics or social trends.”
+	•	Is anything missing?
+“It would be great to know if the data is for a specific age group or demographic.”
+	•	Changes you’d make?
+“I’d remove the decorative image to keep it focused on the data and maybe add a brief takeaway or key insight.”
+
+The feedback showed that the visualization did a good job of highlighting how men and women in the UK view Valentine’s Day differently, with women putting a stronger emphasis on “showing how much you care.” Most people thought it would be interesting to anyone curious about social trends or marketing insights. Suggestions included adding more context to each category, reordering the data for better clarity, and making the color scheme more inclusive for those with colorblindness. While many found it easy to understand, some felt the decorative elements were distracting and suggested simplifying the design to keep the focus on the data itself.
 
 ![Image](./Draft1.png)
 
 ## Revised Version
+
+Based on the feedback I received from the students, I made several improvements to the Valentine’s Day visualization:
+	•	Updated the title for clarity and added some context to it, ensuring it accurately reflects the data being shown.
+	•	Added a legend to clearly differentiate between men’s and women’s responses, improving accessibility for viewers.
+	•	Adjusted the color scheme to be more inclusive and considerate, making it easier for a broader audience to engage with.
+	•	Removed decorative elements that were distracting, such as the heart image, to maintain focus on the data itself.
+	•	Reordered the categories based on percentage values, making it easier to follow and highlighting key insights at a glance.
 
 <div class='tableauPlaceholder' id='viz1731548470424' style='position: relative'>
   <noscript>
