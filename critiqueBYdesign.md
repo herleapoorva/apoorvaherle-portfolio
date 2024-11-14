@@ -1,6 +1,8 @@
 | [home page](https://herleapoorva.github.io/apoorvaherle-portfolio/) | [visualizing debt](https://herleapoorva.github.io/apoorvaherle-portfolio/visualizing-government-debt) | [critiqueBYdesign](https://herleapoorva.github.io/apoorvaherle-portfolio/critiqueBYdesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Selection of Data Visualization
+# Crtique By Design
+
+## Visualization 
 
 The data visualization selected for redesign is focused on the perceived purposes of Valentine’s Day among men and women in the UK. The original visualization, created by Chillisauce.co.uk and published via Statista 'https://www.statista.com/chart/amp/3229/whats-the-point-of-valentines-day/' , depicted the different reasons cited by men and women for celebrating Valentine’s Day, such as showing care, going out for dinner, and buying gifts.
 I also checked out the video 'https://www.youtube.com/watch?v=O4xW96NB1TE' to learn something new and see the alternate options to modify the data viz!
