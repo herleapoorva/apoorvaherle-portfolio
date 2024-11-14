@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critiqueBYdesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://herleapoorva.github.io/apoorvaherle-portfolio/) | [visualizing debt](https://herleapoorva.github.io/apoorvaherle-portfolio/visualizing-government-debt) | [critique by design](https://herleapoorva.github.io/apoorvaherle-portfolio/critiqueBYdesign) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Selection of Data Visualization
 
