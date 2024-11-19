@@ -1,4 +1,4 @@
-| [home page](https://herleapoorva.github.io/apoorvaherle-portfolio/) | [visualizing debt](https://herleapoorva.github.io/apoorvaherle-portfolio/visualizing-government-debt) | [critiqueBYdesign](https://herleapoorva.github.io/apoorvaherle-portfolio/critiqueBYdesign) | [final project I](https://herleapoorva.github.io/apoorvaherle-portfolio/final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://herleapoorva.github.io/apoorvaherle-portfolio/) | [visualizing debt](https://herleapoorva.github.io/apoorvaherle-portfolio/visualizing-government-debt) | [critique by design](https://herleapoorva.github.io/apoorvaherle-portfolio/critiqueBYdesign) | [final project I](https://herleapoorva.github.io/apoorvaherle-portfolio/final_project_ApoorvaHerle.md) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # General Government Debt
 
