@@ -19,6 +19,7 @@ The project’s story arc starts with an overview of the widespread issue of GBV
 
 A timeline or infographic showing the rise of GBV cases during specific events like the COVID-19 pandemic. 
 ![Image](./COVID.png)
+
 Source: https://www.google.com/search?sca_esv=7007c42d54e7c1db&sxsrf=ADLYWIJeBteRIFt3L8LFyA2Nnjv89IXPGg:1732143758170&q=globe+or+timeline+showing+an+increase+in+cases+during+the+covid-19+pandemic&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWtG_mNb-HwafvV8cKK_h1a6xwFkk_1aQL2187d-_SgpdlVDZtiBrYFjEa7SLHn9KyMkgzMJJCF1gEill00arRyRLqSboKoS4kGzZkWRX_liYY5RTmKz0pZOrAdXZrpwzyv0MXdR4hAg6KPTwEAkTWCUl0D2hUVX8qLpuirUKcDZbdh_L4iohxTcvvmTXKY5N6LJH-uQ&sa=X&ved=2ahUKEwjs_p6rguyJAxXpGFkFHdAKJpsQtKgLegQIExAB&biw=1470&bih=744&dpr=2#vhid=C9hoQ8-CbqvDsM&vssid=mosaic
 
 Machine Learning Approach: My data pipeline
@@ -26,10 +27,12 @@ Machine Learning Approach: My data pipeline
 
 Dicussing report 
 ![Image](./Stats-page1.png)
+
 Source : https://www.google.com/search?sca_esv=7007c42d54e7c1db&sxsrf=ADLYWIL89nNkErziCivim1lGFs0VxbrjFw:1732143945453&q=sexual+violence+reports&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWtG_mNb-HwafvV8cKK_h1a5eSkyfXNgRC6a9SKsMT7FIVFrTRcgQ9wgg-AOu0QCUSi1WWZ90AVgAx1eSHdTBok3TYtUIqP1gXwzloUbIhLdpKrPUnECB89KldayD8-e8Dl5HWACom4lT7-0e889K6duZ0WFanPsJajd_NbnkXQ8QX7Rk_iJFTK_phfzByTCe4Z1wvAw&sa=X&ved=2ahUKEwiA3sWEg-yJAxUnMlkFHcjtMZsQtKgLegQIHBAB&biw=1470&bih=744&dpr=2#vhid=RFz0tct0Uc8rUM&vssid=mosaic
 
 Hope for justice 
 ![Image](./scale.jpeg)
+
 Source : https://www.google.com/search?sca_esv=7007c42d54e7c1db&sxsrf=ADLYWIKsJHoAPZa-0rVu4hBxYPZF47C3pg:1732144026935&q=scales+representing+justice.&udm=2&fbs=AEQNm0A2upiO_GHeTz6R89sNEjTHXSUfB8x3gweQ77S5CBNH1qkT9yo9p8LiN9Ph7QzgeH30iP61xKdhHkWU-Ava8l8nz9PkGePjGF8Xy5hRILCU_i0WJtOhvdQtLcJTjKD65-XLl9jT4l6cw86Jk_hwDRHHDS8CHxrc85H5U7_MQxCP3a_KWAcZPuVhBaxiP-PKqs6uCp1N4n6aTDbog6fOLFt_TfQI4A&sa=X&ved=2ahUKEwi5lLOrg-yJAxXfl4kEHXG9NqcQtKgLegQIFxAB&biw=1470&bih=744&dpr=2#vhid=m0I6u3X0r4R6iM&vssid=mosaic
 
 # Data Sources
