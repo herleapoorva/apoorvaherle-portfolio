@@ -53,7 +53,7 @@ This dataset offers a solid foundation for building a machine learning model, as
 
 # How I Plan to Use the Data
 
-  1.	Data Exploration and Cleaning:
+        1.	Data Exploration and Cleaning:
 I’ll start by exploring the dataset to understand the distribution of tweets and their categories. 
 	2.	Model Training:
 Using the cleaned data, I’ll train a supervised learning model to classify the data into the predefined GBV categories.
