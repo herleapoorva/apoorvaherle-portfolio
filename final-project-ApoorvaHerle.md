@@ -15,4 +15,47 @@ The project’s story arc starts with an overview of the widespread issue of GBV
 
 4. Wrapping Up with Hope: At the end of the day, this project isn’t just about machine learning or tweets. It’s about people—about listening to their voices and doing something meaningful with what we hear. Technology gives us a way to amplify those voices and turn them into real change. My hope is that this project inspires others to join the fight for gender equality and reminds us all of the power of empathy combined with action.
 
-5. 
+# Initial sketches 
+
+A timeline or infographic showing the rise of GBV cases during specific events like the COVID-19 pandemic. 
+![Image](./COVID.png)
+Source: https://www.google.com/search?sca_esv=7007c42d54e7c1db&sxsrf=ADLYWIJeBteRIFt3L8LFyA2Nnjv89IXPGg:1732143758170&q=globe+or+timeline+showing+an+increase+in+cases+during+the+covid-19+pandemic&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWtG_mNb-HwafvV8cKK_h1a6xwFkk_1aQL2187d-_SgpdlVDZtiBrYFjEa7SLHn9KyMkgzMJJCF1gEill00arRyRLqSboKoS4kGzZkWRX_liYY5RTmKz0pZOrAdXZrpwzyv0MXdR4hAg6KPTwEAkTWCUl0D2hUVX8qLpuirUKcDZbdh_L4iohxTcvvmTXKY5N6LJH-uQ&sa=X&ved=2ahUKEwjs_p6rguyJAxXpGFkFHdAKJpsQtKgLegQIExAB&biw=1470&bih=744&dpr=2#vhid=C9hoQ8-CbqvDsM&vssid=mosaic
+
+Machine Learning Approach: My data pipeline
+![Image](./flow)
+
+Dicussing report 
+![Image](./Stats-page1.png)
+Source : https://www.google.com/search?sca_esv=7007c42d54e7c1db&sxsrf=ADLYWIL89nNkErziCivim1lGFs0VxbrjFw:1732143945453&q=sexual+violence+reports&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWtG_mNb-HwafvV8cKK_h1a5eSkyfXNgRC6a9SKsMT7FIVFrTRcgQ9wgg-AOu0QCUSi1WWZ90AVgAx1eSHdTBok3TYtUIqP1gXwzloUbIhLdpKrPUnECB89KldayD8-e8Dl5HWACom4lT7-0e889K6duZ0WFanPsJajd_NbnkXQ8QX7Rk_iJFTK_phfzByTCe4Z1wvAw&sa=X&ved=2ahUKEwiA3sWEg-yJAxUnMlkFHcjtMZsQtKgLegQIHBAB&biw=1470&bih=744&dpr=2#vhid=RFz0tct0Uc8rUM&vssid=mosaic
+
+Hope for justice 
+![Image](./scale.jpeg)
+Source : https://www.google.com/search?sca_esv=7007c42d54e7c1db&sxsrf=ADLYWIKsJHoAPZa-0rVu4hBxYPZF47C3pg:1732144026935&q=scales+representing+justice.&udm=2&fbs=AEQNm0A2upiO_GHeTz6R89sNEjTHXSUfB8x3gweQ77S5CBNH1qkT9yo9p8LiN9Ph7QzgeH30iP61xKdhHkWU-Ava8l8nz9PkGePjGF8Xy5hRILCU_i0WJtOhvdQtLcJTjKD65-XLl9jT4l6cw86Jk_hwDRHHDS8CHxrc85H5U7_MQxCP3a_KWAcZPuVhBaxiP-PKqs6uCp1N4n6aTDbog6fOLFt_TfQI4A&sa=X&ved=2ahUKEwi5lLOrg-yJAxXfl4kEHXG9NqcQtKgLegQIFxAB&biw=1470&bih=744&dpr=2#vhid=m0I6u3X0r4R6iM&vssid=mosaic
+
+# Data Sources
+
+Primary Data Source
+
+For this project, I am using the publicly accessible dataset titled Gender-Based Violence Tweet Classification from Kaggle - https://www.kaggle.com/datasets/gauravduttakiit/gender-based-violence-tweet-classification/data . This dataset contains tweets related to various forms of Gender-Based Violence (GBV), which can be classified into distinct categories. It includes textual data from social media posts, providing an invaluable resource for understanding online conversations about GBV.
+
+This dataset offers a solid foundation for building a machine learning model, as it is pre-annotated into categories, simplifying the supervised learning process. It also allows me to explore key trends in GBV-related discussions, including their prevalence and the different forms of violence that are most commonly talked about online.
+
+# How I Plan to Use the Data
+
+  1.	Data Exploration and Cleaning:
+I’ll start by exploring the dataset to understand the distribution of tweets and their categories. 
+	2.	Model Training:
+Using the cleaned data, I’ll train a supervised learning model to classify the data into the predefined GBV categories.
+	3.	Insights Generation:
+I’ll analyze the classified tweets to uncover patterns, such as the most discussed types of GBV, geographic trends, and activity spikes during specific events or crises.
+	4.	Visualization:
+To communicate my findings, I’ll create visualizations using tools like Tableau and Python libraries.
+
+# Method and Medium
+
+I plan to use Shorthand to create an engaging narrative for my project, incorporating text, visuals, and multimedia to guide the audience through the story. For data visualizations, I plan to use Tableau to design interactive visuals like pie charts, heatmaps, and line graphs that effectively communicate insights.
+
+The final deliverable will be an interactive, digital presentation hosted online. I also plan to document all materials, including visualizations, processed data, and source code, on a GitHub repository to ensure accessibility and reproducibility.
+
+
+
