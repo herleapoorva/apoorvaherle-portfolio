@@ -18,20 +18,26 @@ The project’s story arc starts with an overview of the widespread issue of GBV
 # Initial sketches 
 
 A timeline or infographic showing the rise of GBV cases during specific events like the COVID-19 pandemic. 
+
 ![Image](./COVID.png)
 
 Source: https://images.app.goo.gl/6NtjPTD6tRseUp4J6
 
 Machine Learning Approach: My data pipeline
+
 ![Image](./flow)
 
+Source: Created using chatGPT image generator
+
 Dicussing report 
+
 ![Image](./Stats-page1.png)
 
 Source : https://images.app.goo.gl/QdGzZZEcmjwEQF2n7
 
 
 Hope for justice 
+
 ![Image](./scale.jpeg)
 
 Source : https://images.app.goo.gl/9kYjF8bWgyx66CPV7
