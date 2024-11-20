@@ -53,14 +53,7 @@ This dataset offers a solid foundation for building a machine learning model, as
 
 # How I Plan to Use the Data
 
-        1.	Data Exploration and Cleaning:
-I’ll start by exploring the dataset to understand the distribution of tweets and their categories. 
-	2.	Model Training:
-Using the cleaned data, I’ll train a supervised learning model to classify the data into the predefined GBV categories.
-	3.	Insights Generation:
-I’ll analyze the classified tweets to uncover patterns, such as the most discussed types of GBV, geographic trends, and activity spikes during specific events or crises.
-	4.	Visualization:
-To communicate my findings, I’ll create visualizations using tools like Tableau and Python libraries.
+I’ll begin by exploring the dataset to understand the distribution of tweets and their categories, ensuring a clear understanding of the data structure. After cleaning the data, I’ll train a supervised learning model to classify tweets into the predefined GBV categories. Once the data is classified, I’ll analyze the results to uncover patterns, such as the most discussed types of GBV, geographic trends, and activity spikes during specific events or crises. Finally, I’ll use tools like Tableau and Python libraries to create visualizations that effectively communicate these findings.
 
 # Method and Medium
 
