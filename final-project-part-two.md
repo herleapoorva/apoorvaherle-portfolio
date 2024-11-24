@@ -24,7 +24,7 @@ The purpose of this interview is for me to ensure that the visualizations I’ve
 
 # Moodboards / personas
 I am planning to follow this moodboard to further emphasize the idea of this project.
-![Mood Board]() 
+![Mood Board](Mood board.png) 
 
 
 
