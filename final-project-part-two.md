@@ -22,7 +22,18 @@ The purpose of this interview is for me to ensure that the visualizations I’ve
 | To ensure the audience is not overwhelmed or confused | **Do you feel the amount of information presented is too much, too little, or just right?** |
 | Identify potential improvements or modifications | **modifications	Is there anything you would change or do differently about the visualizations?** |
 
+## Interview findings
+
+| **Question**                                                                                                      | **Individual 1**                                                                                                                                                                                | **Individual 2**                                                                                                                                                                                                                   | **Individual 3**                                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+ | **What message do you think the visualizations convey about Gender-Based Violence (GBV)?** |
+ | That traditional harmful violence has significantly been less as compared to sexual violence. According to the chart sexual violence is alarmingly high as compared to other forms of violence, which means that gender based violence is a serious concern. |  
+ The visualization effectively conveys the alarming prevalence of sexual violence among different types of GBV. It highlights how certain categories, like sexual violence, dominate discussions or reports (as represented by tweet counts), while others are comparatively less discussed. | 
+ | Sexual violence is the most spoken about kind of violence |
+
+
 # Moodboards / personas
+
 I am planning to follow this moodboard to further emphasize the idea of this project.
 ![Mood Board](Moodboard.png) 
 
