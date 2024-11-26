@@ -23,6 +23,7 @@ The purpose of this interview is for me to ensure that the visualizations I’ve
 | Identify potential improvements or modifications | **modifications	Is there anything you would change or do differently about the visualizations?** |
 
 
+
 ## Interview Findings
 
 | **Question**                                                                                                     | **Individual 1**                                                                                                                                                                                | **Individual 2**                                                                                                                                                                                                                   | **Individual 3**                                                                                                                                     |
@@ -34,6 +35,8 @@ The purpose of this interview is for me to ensure that the visualizations I’ve
 | **Who do you think is the intended audience? Do you think these visuals are suitable for them?**                 | Policymakers, researchers, social activists, or organizations focused on combating GBV. The visuals are suitable for this audience due to their simplicity and ability to draw attention to the most critical issues.                     | The intended audience can be anyone who needs to be educated about the ongoing rate of violence.                                                                                                                                  | Both men and women. The visuals are suitable for both since they spread awareness and seriousness about GBV.                                        |
 | **Do you feel the amount of information presented is too much, too little, or just right?**                      | Just right for a high-level overview. However, supplementary details (like demographic breakdowns or geographic trends) could provide deeper insights.                                                                                  | Too little. A few more details on specifics would make the chart clearer.                                                                                                                                                          | A little too less, but almost right.                                                                                                               |
 | **Is there anything you would change or do differently about the visualizations?**                               | Add percentages alongside absolute counts for easier comparison. Include annotations or a brief explanation of why sexual violence has the highest count. Use contrasting colors to differentiate categories and make the visualization more engaging. Show trends over time.   | Divide each bar of the bar graph based on gender to understand what category affects which gender more. Otherwise, the graph is enough to convey the alarming increase of sexual violence.                                           | Make the Y-axis description more descriptive, e.g., “Number of Tweets.”                                                                            |
+
+
 
 ## Identified Changes for GBV Visualizations
 
