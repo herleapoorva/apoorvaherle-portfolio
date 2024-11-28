@@ -64,7 +64,7 @@ I am planning to follow this moodboard to further emphasize the idea of this pro
 4. [Pinterest: Social Issue in 2024](https://es.pinterest.com/pin/social-issue-in-2024--973973856912071029/)
 5. [The Guardian: Domestic Abuse Commentary](https://www.theguardian.com/commentisfree/2016/apr/08/blind-epidemic-domestic-abuse#img-1)
 
-
+## Shorthand : https://app.shorthand.com/organisations/JSrgFWI7zn/stories/2LDDdFSRmY
 
 
 
