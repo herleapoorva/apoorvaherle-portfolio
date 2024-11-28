@@ -1,12 +1,12 @@
 # Wireframes / storyboards
 
-The wireframes and storyboards I’ve created outline the key visual and interactive elements for my project on Gender-Based Violence (GBV). They start with a landing page that includes a powerful statistic or quote to immediately draw attention to the issue. From there, I’ve included a timeline to show the challenges victims face, followed by visuals like an interactive heatmap to highlight GBV-related tweets by region, bar charts comparing different categories of violence, and line graphs showing trends over time. The final section uses infographics to show actionable recommendations and a slider to visualize the potential impact of interventions. My goal is to make these visuals clear, accessible, and impactful, helping readers engage with the story and take action.
+I’ve designed wireframes and storyboards to bring my project on Gender-Based Violence (GBV) to life. It starts with a landing page that grabs attention with a striking statistic or quote about GBV. From there, it leads into a timeline highlighting the challenges victims face. I’ve also included interactive visuals like a heatmap showing GBV-related tweets by region, bar charts comparing different types of violence, and line graphs showing trends over time. To wrap it up, the final section features infographics with actionable recommendations and a slider to show the potential impact of interventions. My aim is to make these visuals engaging, easy to understand, and impactful, so they inspire readers to connect with the issue and take meaningful action.
 
 # User research 
 
 ## Target audience
 
-My target audience includes fellow students and researchers who are curious about the intersection of social issues and machine learning. I aim to engage those who are passionate about understanding and addressing GBV, as well as those interested in how technology can provide new perspectives and solutions. Beyond sharing insights, I want my peers to know that it is okay to speak up about difficult topics like Gender-Based Violence. Through this project, I aim to increase awareness, foster empathy, and encourage open conversations around this critical issue. By tailoring the story with clear visuals and relatable insights, I hope to inspire my peers to think critically about how we can leverage technology to drive social change and support those in need.
+My target audience includes fellow students who are curious about the intersection of social issues and machine learning. I aim to engage those who are passionate about understanding and addressing GBV, as well as those interested in how technology can provide new perspectives and solutions. Beyond sharing insights, I want my peers to know that it is okay to speak up about difficult topics like Gender-Based Violence. Through this project, I aim to increase awareness, foster empathy, and encourage open conversations around this critical issue. By tailoring the story with clear visuals and relatable insights, I hope to inspire my peers to think critically about how we can leverage technology to drive social change and support those in need.
 
 ## Interview script
 
@@ -56,6 +56,11 @@ The purpose of this interview is for me to ensure that the visualizations I’ve
 I am planning to follow this moodboard to further emphasize the idea of this project.
 ![Mood Board](Moodboard.png) 
 
+Sources : https://www.pinterest.com/pin/849491548446467393/
+https://www.kittl.com/design/Gender-Equality-For-All-Collage-Typography-pGM0RH14
+https://www.pinterest.com/pin/46302702409981313/
+https://es.pinterest.com/pin/social-issue-in-2024--973973856912071029/
+https://www.theguardian.com/commentisfree/2016/apr/08/blind-epidemic-domestic-abuse#img-1
 
 
 
