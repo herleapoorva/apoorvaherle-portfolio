@@ -56,11 +56,13 @@ The purpose of this interview is for me to ensure that the visualizations I’ve
 I am planning to follow this moodboard to further emphasize the idea of this project.
 ![Mood Board](Moodboard.png) 
 
-Sources : https://www.pinterest.com/pin/849491548446467393/
-https://www.kittl.com/design/Gender-Equality-For-All-Collage-Typography-pGM0RH14
-https://www.pinterest.com/pin/46302702409981313/
-https://es.pinterest.com/pin/social-issue-in-2024--973973856912071029/
-https://www.theguardian.com/commentisfree/2016/apr/08/blind-epidemic-domestic-abuse#img-1
+## Sources
+
+1. [Pinterest Pin 1](https://www.pinterest.com/pin/849491548446467393/)
+2. [Kittl: Gender Equality for All Collage Typography](https://www.kittl.com/design/Gender-Equality-For-All-Collage-Typography-pGM0RH14)
+3. [Pinterest Pin 2](https://www.pinterest.com/pin/46302702409981313/)
+4. [Pinterest: Social Issue in 2024](https://es.pinterest.com/pin/social-issue-in-2024--973973856912071029/)
+5. [The Guardian: Domestic Abuse Commentary](https://www.theguardian.com/commentisfree/2016/apr/08/blind-epidemic-domestic-abuse#img-1)
 
 
 
