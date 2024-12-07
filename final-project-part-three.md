@@ -16,9 +16,28 @@ My target audience includes fellow students, with the goal of fostering greater 
 Since I had a moodboard, I made a conscious effort to keep the colors in the presentation aligned with it, ensuring a cohesive and visually appealing aesthetic throughout. I also focused on tying the different charts together, not just in terms of data relevance but also in design (or atleast tried to!), to make them visually consistent and engaging for the audience. To add depth and incorporating the feedback given in Part 2, I utilized multiple datasets and incorporated them into various charts, providing a comprehensive view of the issue. To convey the gravity of the topic, I carefully selected images that highlighted the seriousness of Gender-Based Violence (GBV), aiming to evoke empathy and reflection. Through this process, I feel that I learned the importance of balancing aesthetics, data integrity, and emotional appeal to effectively engage my peers and emphasize the significance of the topic.
 
 # References
-You should have already included detailed references on your Shorthand story - if so, you can probably skip this section. Use this section to capture any additional special notes or information necessary. If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story. Make sure you have cited external sources correctly.
+
+Sources :
+1. Myths : [https://www.myunitedway.ca/news/5-common-myths-gbv/?](https://www.myunitedway.ca/news/5-common-myths-gbv/?)
+           [https://womenforwomen.org.uk/blog/16-facts-about-gender-based-violence](https://womenforwomen.org.uk/blog/16-facts-about-gender-based-violence)
+2. 1 in 3 women Image : [https://data.unwomen.org/global-database-on-violence-against-women](https://data.unwomen.org/global-database-on-violence-against-women)
+3. Key findings :[https://www.wvi.org/stories/facts-faqs-history-what-you-need-know-about-gender-based-violence](https://www.wvi.org/stories/facts-faqs-history-what-you-need-know-about-gender-based-violence)
+                 [https://www.unwomen.org/en/articles/facts-and-figures/facts-and-figures-ending-violence-against-women](https://www.unwomen.org/en/articles/facts-and-figures/facts-and-figures-ending-violence-against-women)
+                 [https://data.unicef.org/topic/child-protection/female-genital-mutilation/](https://data.unicef.org/topic/child-protection/female-genital-mutilation/)
+4. The Victim’s Journey : [https://pmc.ncbi.nlm.nih.gov/articles/PMC1705531/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1705531/)
+                          [https://link.springer.com/chapter/10.1007/978-3-031-40754-3_39?](https://link.springer.com/chapter/10.1007/978-3-031-40754-3_39?)
+                          [https://gbvjournalism.org/book/reporting-challenges?](https://gbvjournalism.org/book/reporting-challenges?)
+                          [https://bmjopen.bmj.com/content/12/7/e060479?](https://bmjopen.bmj.com/content/12/7/e060479?)
+5. Additional Datasets : [https://dataunodc.un.org/sites/dataunodc.un.org/files/data_cts_violent_and_sexual_crime.xlsx](https://dataunodc.un.org/sites/dataunodc.un.org/files/data_cts_violent_and_sexual_crime.xlsx)
+6. Call to action : [https://vetoviolence.cdc.gov/apps/violence-prevention-practice/node/214?](https://vetoviolence.cdc.gov/apps/violence-prevention-practice/node/214?)
+                    [https://menengage.org/wp-content/uploads/2022/02/Gender-Based-Violence-GBV-MenEngage-Ubuntu-Symposium-Discussion-Paper-EN.pdf?](https://menengage.org/wp-content/uploads/2022/02/Gender-Based-Violence-GBV-MenEngage-Ubuntu-Symposium-Discussion-Paper-EN.pdf?)
+                    [https://www.unwomen.org/en/news/stories/2020/11/compilation-take-action-to-help-end-violence-against-women](https://www.unwomen.org/en/news/stories/2020/11/compilation-take-action-to-help-end-violence-against-women)
+                    [https://www.antiviolenceproject.org/volunteers/?](https://www.antiviolenceproject.org/volunteers/?)
+7. Amina's story : [https://thegirlgeneration.org/aminas-journey-from-survivor-to-trailblazer-in-the-fight-against-fgm/?](https://thegirlgeneration.org/aminas-journey-from-survivor-to-trailblazer-in-the-fight-against-fgm/?)
+
+Shorthand : [Shorthand](https://carnegiemellon.shorthandstories.com/shattering-the-cycle-of-gender-based-violence/index.html) 
 
 
 # Final thoughts
-You can summarize any final thoughts / reflections that don't fit well in the previous sections here. How did it go? What did you run out of time for, or wish you had a chance to revisit? What were you most excited about? Include any final reflections as you think they might help us understand your process. If you already included such reflections elsewhere, you can delete this section.
 
+In reflecting on the process, I realize I would have loved to include details of all the projects I’ve worked on so far in my life to provide a more comprehensive view of my journey. However, I thoroughly enjoyed focusing on the work I did include, as it allowed me to showcase the aspects I’m most passionate about. This experience gave me an opportunity to refine my storytelling skills and make meaningful connections between my work and the audience. Loved the class! 
