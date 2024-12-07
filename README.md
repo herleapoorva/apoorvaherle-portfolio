@@ -12,9 +12,13 @@ Outside of work and studies, I keep busy by singing and boxing, both of which ke
 I hope to learn more about visualizing data to show my work to the world!
 Once I graduate, I plan to leverage these skills in a consulting role, ideally in healthcare or tech. My goal is to contribute to meaningful projects that make a tangible impact, and I’m excited to see how this course will help me grow both technically and strategically toward that path.
 
-# Portfolio 
-  # Assignment 1: visualizing-government-debt
-  # Assignment 2: critiqueBYdesign
-  # Assignmnet 3: Final Project
+# Portfolio
+
+## Assignment 1: Visualizing Government Debt
+
+## Assignment 2: Critique by Design
+
+## Assignment 3: Final Project
+
 
   
