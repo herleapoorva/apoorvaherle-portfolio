@@ -26,16 +26,18 @@ Sources :
 3. Key findings :[https://www.wvi.org/stories/facts-faqs-history-what-you-need-know-about-gender-based-violence](https://www.wvi.org/stories/facts-faqs-history-what-you-need-know-about-gender-based-violence)
                  [https://www.unwomen.org/en/articles/facts-and-figures/facts-and-figures-ending-violence-against-women](https://www.unwomen.org/en/articles/facts-and-figures/facts-and-figures-ending-violence-against-women)
                  [https://data.unicef.org/topic/child-protection/female-genital-mutilation/](https://data.unicef.org/topic/child-protection/female-genital-mutilation/)
-4. The Victim’s Journey : [https://pmc.ncbi.nlm.nih.gov/articles/PMC1705531/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1705531/)
+                 [https://www.scribd.com/document/286123501/Report](https://www.scribd.com/document/286123501/Report)
+5. The Victim’s Journey : [https://pmc.ncbi.nlm.nih.gov/articles/PMC1705531/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1705531/)
                           [https://link.springer.com/chapter/10.1007/978-3-031-40754-3_39?](https://link.springer.com/chapter/10.1007/978-3-031-40754-3_39?)
                           [https://gbvjournalism.org/book/reporting-challenges?](https://gbvjournalism.org/book/reporting-challenges?)
                           [https://bmjopen.bmj.com/content/12/7/e060479?](https://bmjopen.bmj.com/content/12/7/e060479?)
-5. Additional Datasets : [https://dataunodc.un.org/sites/dataunodc.un.org/files/data_cts_violent_and_sexual_crime.xlsx](https://dataunodc.un.org/sites/dataunodc.un.org/files/data_cts_violent_and_sexual_crime.xlsx)
-6. Call to action : [https://vetoviolence.cdc.gov/apps/violence-prevention-practice/node/214?](https://vetoviolence.cdc.gov/apps/violence-prevention-practice/node/214?)
+6. Additional Datasets : [https://dataunodc.un.org/sites/dataunodc.un.org/files/data_cts_violent_and_sexual_crime.xlsx](https://dataunodc.un.org/sites/dataunodc.un.org/files/data_cts_violent_and_sexual_crime.xlsx)
+7. Call to action : [https://vetoviolence.cdc.gov/apps/violence-prevention-practice/node/214?](https://vetoviolence.cdc.gov/apps/violence-prevention-practice/node/214?)
                     [https://menengage.org/wp-content/uploads/2022/02/Gender-Based-Violence-GBV-MenEngage-Ubuntu-Symposium-Discussion-Paper-EN.pdf?](https://menengage.org/wp-content/uploads/2022/02/Gender-Based-Violence-GBV-MenEngage-Ubuntu-Symposium-Discussion-Paper-EN.pdf?)
                     [https://www.unwomen.org/en/news/stories/2020/11/compilation-take-action-to-help-end-violence-against-women](https://www.unwomen.org/en/news/stories/2020/11/compilation-take-action-to-help-end-violence-against-women)
                     [https://www.antiviolenceproject.org/volunteers/?](https://www.antiviolenceproject.org/volunteers/?)
-7. Amina's story : [https://thegirlgeneration.org/aminas-journey-from-survivor-to-trailblazer-in-the-fight-against-fgm/?](https://thegirlgeneration.org/aminas-journey-from-survivor-to-trailblazer-in-the-fight-against-fgm/?)
+   
+8. Amina's story : [https://thegirlgeneration.org/aminas-journey-from-survivor-to-trailblazer-in-the-fight-against-fgm/?](https://thegirlgeneration.org/aminas-journey-from-survivor-to-trailblazer-in-the-fight-against-fgm/?)
 
 Shorthand : [Shorthand](https://carnegiemellon.shorthandstories.com/shattering-the-cycle-of-gender-based-violence/index.html) 
 
